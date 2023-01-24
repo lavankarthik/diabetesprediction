@@ -1,0 +1,13 @@
+Step 1. Create a new Angular project
+Step 2. Download and Install Git
+Step 3. Run git init command using Git Bash
+Go to Project Folder -> git init
+Step 4. Execute Git Command to Commit locally
+git add .
+git commit -m "Initial commit" commits the file with a message.
+Step 5. Register GitHub and Create a repository
+git remote add origin https://github.com/Rambabu1969/AngularMLDemo.git
+git branch -M main
+Step 6. Publish to Git Repository
+git push -u origin main
+Step 7. Refresh Git Repository
